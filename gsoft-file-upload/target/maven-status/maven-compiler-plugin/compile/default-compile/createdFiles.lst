@@ -1,0 +1,4 @@
+com\gsoft\framework\upload\entity\FileUploadInfo.class
+com\gsoft\framework\upload\dao\FileUploadInfoDao.class
+com\gsoft\framework\upload\service\FileUploadInfoWebManager.class
+com\gsoft\framework\upload\service\FileUploadInfoServerManager.class

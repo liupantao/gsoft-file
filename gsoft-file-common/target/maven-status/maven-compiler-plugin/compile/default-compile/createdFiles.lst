@@ -1,0 +1,7 @@
+com\gsoft\file\service\FileSecurityManager.class
+com\gsoft\file\service\impl\FileSecurityManagerImpl.class
+com\gsoft\file\util\FilePathUtils.class
+com\gsoft\file\service\FileStoreService.class
+com\gsoft\file\entity\FileStore.class
+com\gsoft\file\Constants.class
+com\gsoft\file\DownloadCallback.class
