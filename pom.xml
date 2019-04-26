@@ -11,6 +11,7 @@
   <artifactId>gsoft-file</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>gsoft-file</name> 
+  
   <packaging>pom</packaging>
   
   
